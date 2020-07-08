@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	//Just a comment line added to it.
+	
 	printf("enter your marks");
 	int marks;
 	scanf("%d",&marks);
